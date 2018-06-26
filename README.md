@@ -1,6 +1,6 @@
 # OmniAuth Azure Active Directory
-[![Build Status](https://travis-ci.org/AzureAD/omniauth-azure-activedirectory.png?branch=master)](https://travis-ci.org/AzureAD/omniauth-azure-activedirectory)
-[![Code Climate](https://codeclimate.com/github/AzureAD/omniauth-azure-activedirectory/badges/gpa.svg)](https://codeclimate.com/github/AzureAD/omniauth-azure-activedirectory/badges/gpa.svg)
+
+**NOTE: this repo has a number of bugfixs submitted by other users that upstream have not yet integrated**
 
 OmniAuth strategy to authenticate to Azure Active Directory via OpenId Connect.
 
